@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37727
     wikipedia: http://en.wikipedia.org/wiki/Vincent_Starrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35515#Arthur-MachenA-Novelist-of-Ecstasy-and-Sin
 gutenberg_issued: '2011-03-07'
 gutenberg_type: Text
 identifiers:
